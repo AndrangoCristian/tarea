@@ -1,0 +1,71 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    height: 160px;
+    background-image: url('imagen/uec.JPG'); 
+    background-size: cover;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+
+.accordion {
+    
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 150px;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.accordion:hover {
+    background-color: #27bcf7;
+}
+
+
+
+
+
+
+.info h3 {
+    margin-top: 0;
+    color: #555555;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.info p {
+    color: #0a1f36;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.6;
+}
+.cont {
+    width: 800px;
+    margin: 20px auto;
+    background-color: #0faceb2a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(214, 14, 14, 0.836);
+}
